@@ -1,0 +1,41 @@
+body {
+    background-color: #151525;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background: purple;
+    padding: 25px;
+}
+
+section {
+    padding: 30px;
+}
+
+.project {
+    background: #292945;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+button {
+    background: purple;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: violet;
+}
+
+footer {
+    background: #292945;
+    padding: 15px;
+}
